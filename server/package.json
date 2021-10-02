@@ -1,0 +1,19 @@
+{
+   "name": "storex-server",
+   "version": "0.0.1",
+   "main": "./src/index.ts",
+   "devDependencies": {
+      "ts-node": "3.3.0",
+      "@types/node": "^8.0.29",
+      "typescript": "3.3.3333"
+   },
+   "dependencies": {
+      "typeorm": "0.2.37",
+      "reflect-metadata": "^0.1.10",
+      "mysql": "^2.14.1",
+      "mongodb": "^3.0.8"
+   },
+   "scripts": {
+      "start": "ts-node src/index.ts"
+   }
+}
