@@ -8,7 +8,7 @@
       "typescript": "4.4.4"
    },
    "dependencies": {
-      "typeorm": "0.2.38",
+      "typeorm": "0.3.20",
       "reflect-metadata": "^0.1.10",
       "mysql": "^2.14.1",
       "mongodb": "^3.0.8"
